@@ -5,7 +5,7 @@ pdfrender turns HTML and CSS into PDF over a REST API and an MCP server. WeasyPr
 ## Repositories
 
 - [pdfrender](https://github.com/pdfrender-dev/pdfrender): start here, for the MCP server, the Claude Code plugin and the API.
-- [pdfrender-integrations](https://github.com/pdfrender-dev/pdfrender-integrations): n8n, Zapier, Make, Workato, Dify, SDKs and templates.
+- [pdfrender-integrations](https://github.com/pdfrender-dev/pdfrender-integrations): n8n, Zapier, Make, Dify, SDKs and templates.
 - [pdfrender-action](https://github.com/pdfrender-dev/pdfrender-action): use pdfrender in GitHub Actions.
 
 ## Links
